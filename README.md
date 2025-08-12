@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project utilizes unsupervised machine learning, specifically **K-Means clustering**, to segment a large dataset of over 5,000 Spotify songs based on their intrinsic audio features. The primary goal is to identify distinct musical profiles within the dataset, which can then be used as the foundation for **automated playlist generation**. This prototype demonstrates how machine learning can be applied to enhance music discovery and curation.
+This project utilizes unsupervised machine learning, specifically **K-Means clustering**, to segment a large dataset of over 5,000 Spotify songs based on their intrinsic audio features. The primary goal is to identify distinct musical profiles within the dataset, which can then be used as the foundation for **automated playlist generation**. This prototype demonstrates how machine learning can be applied to enhance music discovery and curation. [View the full project presentation slides (PDF)](Spotify_Playlist_Automation_Presentation.pdf)
 
 ## Data Source
 
